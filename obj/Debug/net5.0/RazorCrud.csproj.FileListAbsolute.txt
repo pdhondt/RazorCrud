@@ -166,3 +166,8 @@
 /home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/ref/RazorCrud.dll
 /home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/RazorCrud.pdb
 /home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/RazorCrud.genruntimeconfig.cache
+/home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/Razor/Pages/Movies/Create.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/Razor/Pages/Movies/Delete.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/Razor/Pages/Movies/Details.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/Razor/Pages/Movies/Edit.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/RazorCrud/obj/Debug/net5.0/Razor/Pages/Movies/Index.cshtml.g.cs
