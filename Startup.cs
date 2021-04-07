@@ -27,7 +27,7 @@ namespace RazorCrud
             services.AddRazorPages();
 
             services.AddDbContext<RazorCrudMovieContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("RazorCrudMovieContext")));
+                    options.UseSqlite(Configuration.GetConnectionString("RazorCrudMovieContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
